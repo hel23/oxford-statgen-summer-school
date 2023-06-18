@@ -13,7 +13,7 @@ Things to do:
 
 * Please download [IGV desktop app](https://igv.org) on your laptop.  (For the practical we will use the 'Human (GRCh38/hg38)' reference.)
 
-After the coffee we will start on the practicals:
+After the coffee break we will start on the practicals:
 
 * **Day 1 Morning session**: Go to the [next generation sequence data analysis](./next_generation_sequencing/basic_sequence_data_analysis/README.md) page.
 
